@@ -1,10 +1,10 @@
-# laya
+# global
 
 基本框架, 只支持(http, Grpc)
 
 ## 快速开始
 
-[使用模板快速构建项目](https://github.com/layasugar/laya-template)
+[使用模板快速构建项目](https://github.com/climber-dong/global)
 
 ## 功能
 
