@@ -8,10 +8,10 @@ import (
 )
 
 const (
-	cTimer            = 5 * time.Second     // 配置重载时间, 配置文件更新5s后重载配置
-	httpListenKey     = "app.http_listen"   // http_listen
-	pbRpcListenKey    = "app.pbrpc_liten"   // rpc_listen
-	defaultConfigFile = "./config/app.toml" // 固定配置文件
+	cTimer            = 5 * time.Second   // 配置重载时间, 配置文件更新5s后重载配置
+	httpListenKey     = "app.http_listen" // http_listen
+	pbRpcListenKey    = "app.pbrpc_liten" // rpc_listen
+	defaultConfigFile = "./conf/app.toml" // 固定配置文件
 )
 
 var V = viper.New()
