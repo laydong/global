@@ -1,6 +1,6 @@
 // surprise
 
-package laya
+package global
 
 import (
 	"fmt"
